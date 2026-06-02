@@ -17,6 +17,18 @@ A **Retrieval Augmented Generation (RAG)** system that lets medical professional
 
 > *"Instead of reading 200 pages of medical research, just ask the AI."*
 
+## 🏗️ System Architecture
+
+![Architecture](architecture_rag.png)
+
+---
+
+## 📊 Performance Metrics
+
+![Performance](performance_rag.png)
+
+---
+
 ---
 
 ## 🔄 How RAG Works
